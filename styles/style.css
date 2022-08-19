@@ -1,0 +1,16 @@
+body{
+	background: url(images/founsite.jpg);
+}
+.yhast{
+	text-align: center;
+	font-size: 30px;
+	color: #eb283fb8;
+	font-family: Verdana;
+	border: 1px solid red;
+}
+
+.helpsite{
+	color: red;
+	font-size: 19px;
+	font-family: Verdana;
+}
